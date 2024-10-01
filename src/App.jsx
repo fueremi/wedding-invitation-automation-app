@@ -1,4 +1,5 @@
 import { useState } from "react";
+import Swal from "sweetalert2";
 
 const App = () => {
   const [name, setName] = useState("");
@@ -36,6 +37,11 @@ Terima Kasih.
 
     mySmartTextarea.select();
     document.execCommand("copy");
+    Swal.fire({
+      icon: "success",
+      title: "Yeay 😀",
+      html: `Undangan berhasil di copy ke clipboard`,
+    });
     mySmartTextarea.remove();
   };
 
