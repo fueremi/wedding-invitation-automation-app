@@ -26,8 +26,6 @@ https://nadiya-rian-wedding.netlify.app?guest=${temp};
 
 Merupakan suatu kebahagiaan bagi kami apabila Bapak/Ibu/Saudara/i berkenan untuk hadir dan memberikan doa restu
 
-Mohon maaf perihal undangan hanya di bagikan melalui pesan ini. Karena suasana masih pandemi diharapkan untuk menggunakan masker dan datang pada jam yang telah ditentukan. Terima kasih banyak atas perhatiannya.
-
 Wassalamu'alaikum Wr. Wb.
 Terima Kasih.
 `;
