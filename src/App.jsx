@@ -81,7 +81,7 @@ https://nadiya-rian-wedding.netlify.app?guest=${temp};
 
 Merupakan suatu kehormatan dan kebahagiaan bagi kami serta terima kasih, apabila Bapak/Ibu/Saudara/Saudari berkenan hadir memberikan do'a dan restu kepada Kedua Mempelai.
 
-وَ السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
+Wassalamualaikum Warahmatullahi Wabarakatuh
 
 Bajuri & Eviyana
 Syafril Hadi & Meri Azrinelti
