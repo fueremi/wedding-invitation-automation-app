@@ -52,7 +52,7 @@ Terima Kasih.
 
   const handleOnClickCopyInvitationLink2 = () => {
     const temp = name.replace(/ /g, ";").replace("&", "=");
-    const letter = `السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
+    const letter = `Assalamualaikum Warahmatullahi Wabarakatuh
 
 Kepada yth.  Bpk/Ibu/Saudara/Saudari: ${name.replace(/\w\S*/g, function (txt) {
       return txt.charAt(0).toUpperCase() + txt.substr(1);
@@ -72,9 +72,9 @@ Putra bungsu dari Bapak Dr.Ir.H.Syafril Hadi,M.S & Ibu Hj.Meri Azrinelti,S.T.,M.
 
 Yang in sya Allah akan dilaksanakan pada:
 
-Hari, tanggal	: Minggu, 13 Oktober 2024
-Pukul         : 10.00 - 14.00 WIB
-Tempat        : BALLROOM UIN RADEN INTAN LAMPUNG
+Hari, tanggal : Minggu, 13 Oktober 2024
+Pukul             : 10.00 - 14.00 WIB
+Tempat          : BALLROOM UIN RADEN INTAN LAMPUNG
 
 Undangan dapat diakses melalui: 
 https://nadiya-rian-wedding.netlify.app?guest=${temp};
