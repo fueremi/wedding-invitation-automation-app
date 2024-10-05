@@ -121,14 +121,14 @@ Syafril Hadi & Meri Azrinelti
         className="mt-8 px-4 py-1 bg-[#89565C] rounded"
         onClick={() => handleOnClickCopyInvitationLink2()}
       >
-        Copy Link
+        (Ayah) Copy Link
       </button>
 
       <button
         className="mt-8 px-4 py-1 bg-[#89565C] rounded"
         onClick={() => handleOnClickCopyInvitationLink()}
       >
-        Copy Invitation Link
+        (Nadiya) Copy Link
       </button>
     </div>
   );
